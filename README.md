@@ -1,3 +1,4 @@
 # Stock-Analysis
 Stock Analysis with VBA
-[Stock Analysis Spreadsheet](C:\Users\Greg.Finin\Desktop\Test.xlsx)
+![Test Pic](\Desktop\CBLogo.jpg)
+[Stock Analysis](C:\Users\Greg.Finin\Desktop\Stock_Analysis.xlsx "Stock Spreadsheet")

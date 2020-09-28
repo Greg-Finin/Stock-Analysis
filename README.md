@@ -4,6 +4,11 @@ The purpose of this analysis was to measure the performance of a set of stocks f
 ## Results
 As shown from the pictures below, 2017 was a far more profitable year for the stock market. Ten of the twelve stocks we tracked returned positive results in 2017, as opposed to two of twelve in 2018. this highlights the volatiliy of the stock-marktet, and how a stock can have high returns one year and then low or no returns the next year. One conclusion we can draw from this, is that our data is not in a good place to suggest a stock. While we can see that stock "AY" had a bad year in 2017 and then a good year in 2018, we would need more data and a longer time span to get the full idea.
 
+  ![VBA Challenge 2017](VBA_Returns_2017.PNG)
+  
+  ![VBA Challenge 2017](VBA_Returns_2018.PNG)
+
+
 ## Refactor Summary
   1. Refactoring code can help understand exactly what your code is doing, how it does it, and where there might be room for improvement. That being said, if you are not focused you can make slight changes that affect how your code runs, potentially creating errors where there were none before. You can also use refactoring to alter code so that it can be used across mutlple purposes, instead of the one you initially intended. That also can create issues, however, as the refactored code might not serve its original purpose as well as it once did.
   2. For our analysis, the refactored code helped greatly. The introduction of the tickersIndex variable, in particular, enabled our code to be much more intuitive. While our orininal code was only able to be used for the specific stocks Steve asked for, our refactored code allowed us to utilize the entire stock market. This kind of repurposing is an example of what was referenced above; the code was made for a very narrow purpose but was braodened and made more effective by refactoring. We did not run into any major issues in our refactoring, as the code was already very similiar to the refactored goal. 

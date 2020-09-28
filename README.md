@@ -1,4 +1,3 @@
 # Stock-Analysis
-Stock Analysis with VBA
-![Test Pic](C:\Users\Greg.Finin\Desktop\CBLogo.jpg)
-[Stock Analysis](C:\Users\Greg.Finin\Desktop\Stock_Analysis.xlsx)
+The purpose of this analysis was to measure the performance of a set of stocks for our friend Steve. He is looking to get some information to provide to his parents concerning the returns or losses in the stock market. We were able to write a VBA script that reads the stock information and stores each piece in its proper place. Our main concerns were the daily trading volume, and the return or loss over the entire year. To make things simple for Steve, and to enable us to use our code in different situations, we set up a message box that asks the user to input the year they are looking for. 
+##

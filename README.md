@@ -4,9 +4,7 @@ The purpose of this analysis was to measure the performance of a set of stocks f
 ## Results
 As shown from the pictures below, 2017 was a far more profitable year for the stock market. Ten of the twelve stocks we tracked returned positive results in 2017, as opposed to two of twelve in 2018. this highlights the volatiliy of the stock-marktet, and how a stock can have high returns one year and then low or no returns the next year. One conclusion we can draw from this, is that our data is not in a good place to suggest a stock. While we can see that stock "AY" had a bad year in 2017 and then a good year in 2018, we would need more data and a longer time span to get the full idea.
 
-  ![VBA Challenge 2017](VBA_Returns_2017.PNG)
-  
-  ![VBA Challenge 2017](VBA_Returns_2018.PNG)
+  ![VBA Challenge 2017](VBA_Returns_2017.PNG) ![VBA Challenge 2017](VBA_Returns_2018.PNG)
 
 
 ## Refactor Summary
